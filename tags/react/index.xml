@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>React on Coding For Fun</title>
+    <link>https://hugo-blog.github.io/tags/react/</link>
+    <description>Recent content in React on Coding For Fun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2017 10:58:08 -0400</lastBuildDate><atom:link href="https://hugo-blog.github.io/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project-1 Corona Virus Tracker</title>
+      <link>https://hugo-blog.github.io/post/project-1/</link>
+      <pubDate>Mon, 10 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://hugo-blog.github.io/post/project-1/</guid>
+      <description>The following are the points about the covid-19 tracker:
+ This covid-19 tracker web application is used to track the covid patient all over the world. It shows the result in the form of graph, which is easy to read. You can all select the different countries and see the number of covid patients. This all shows number of death due to covid and number of recovered patients.     Link to Github Repository Check the Corona Virus Tracker  </description>
+    </item>
+    
+  </channel>
+</rss>

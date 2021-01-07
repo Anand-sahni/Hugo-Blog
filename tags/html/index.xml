@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML on Coding For Fun</title>
+    <link>https://hugo-blog.github.io/tags/html/</link>
+    <description>Recent content in HTML on Coding For Fun</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Apr 2017 11:00:59 -0400</lastBuildDate><atom:link href="https://hugo-blog.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project-2: Music Player</title>
+      <link>https://hugo-blog.github.io/post/project-2/</link>
+      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
+      
+      <guid>https://hugo-blog.github.io/post/project-2/</guid>
+      <description>The followings are the points about the music player.
+ This music player was main purpose to make good UI and how to play static songs. The songs in this music player are hardcoded so there are only three songs. This player doest use any type of API and open source music. To change songs and add more songs you have to do it manually.     Link to Github Repository Check the Music Player  </description>
+    </item>
+    
+    <item>
+      <title>Project-1 Corona Virus Tracker</title>
+      <link>https://hugo-blog.github.io/post/project-1/</link>
+      <pubDate>Mon, 10 Apr 2017 10:58:08 -0400</pubDate>
+      
+      <guid>https://hugo-blog.github.io/post/project-1/</guid>
+      <description>The following are the points about the covid-19 tracker:
+ This covid-19 tracker web application is used to track the covid patient all over the world. It shows the result in the form of graph, which is easy to read. You can all select the different countries and see the number of covid patients. This all shows number of death due to covid and number of recovered patients.     Link to Github Repository Check the Corona Virus Tracker  </description>
+    </item>
+    
+  </channel>
+</rss>
